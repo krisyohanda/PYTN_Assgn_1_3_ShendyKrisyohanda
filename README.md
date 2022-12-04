@@ -1,8 +1,7 @@
 ## Cara Menjalankan Program tanpa error
 1. Download file <a href="https://www.kaggle.com/datasets/jboysen/london-crime ">London Crime Data, 2008-2016</a>
-2. Buat Folder Dataset 
-3. Masukkan file yang telah didownload ke dalam dataset
-4. Jalankan
+2. Masukkan file yang telah didownload ke dalam dataset
+3. Jalankan
 
 ## Ulasan Proyek
 
