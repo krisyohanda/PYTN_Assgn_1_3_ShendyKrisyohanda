@@ -1,3 +1,9 @@
+## Cara Menjalankan Program tanpa error
+1. Download file <a href="https://www.kaggle.com/datasets/jboysen/london-crime ">London Crime Data, 2008-2016</a>
+2. Buat Folder Dataset 
+3. Masukkan file yang telah didownload ke dalam dataset
+4. Jalankan
+
 ## Ulasan Proyek
 
 Tujuan dari proyek ini adalah untuk memperkenalkan visualisasi data dengan Python sekonkret dan sekonsisten mungkin. Menggunakan apa yang telah dipelajari; unduh Kumpulan Data Kejahatan London dari Kaggle. Dataset ini merupakan catatan kejahatan di wilayah metropolitan besar, seperti London, terjadi dalam pola yang berbeda. Data ini mencakup jumlah laporan kriminal menurut bulan, wilayah LSOA, dan kategori mayor/minor dari Jan 2008-Des 2016.
